@@ -1,2 +1,2 @@
-# ling-cancer-detection
+# lung-cancer-detection
 Lung Cancer Detection
